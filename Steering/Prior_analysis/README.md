@@ -42,7 +42,6 @@ Evaluates the precision loss introduced when internal model activations (latents
 ```bash
 python plot_fp32_vs_fp16.py
 ```
-*(Note: Edit the `DATE` and paths in the script configuration if you need to run this for different conditions.)*
 
 ## Requirements
 - `xarray`
